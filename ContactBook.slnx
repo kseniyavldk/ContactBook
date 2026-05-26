@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="contactbook.client/contactbook.client.esproj">
+    <Build Solution="Release|*" />
+    <Deploy Solution="Release|*" />
+  </Project>
+  <Project Path="ContactBook.Server/ContactBook.Server.csproj" />
+</Solution>
